@@ -1,0 +1,29 @@
+{
+  "name": "ecom",
+  "version": "0.1.0",
+  "description": "A sample Node.js ecom app using Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bharatvignesh/ecom.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Mark Pundsack",
+  "contributors": [
+    "bharatkumar"
+  ],
+  "license": "MIT"
+}
