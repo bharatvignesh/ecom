@@ -8,7 +8,7 @@ app.get('/listUsers', function (req, res) {
        res.end( data );
 })
 
-var server = app.listen(8080, function () {
+var server = app.listen(80, function () {
 
   var host = server.address().address
   var port = server.address().port
